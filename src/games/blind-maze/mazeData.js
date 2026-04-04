@@ -1,0 +1,1 @@
+// Data for the Blind Maze game
