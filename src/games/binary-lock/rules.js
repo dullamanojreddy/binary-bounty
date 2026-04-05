@@ -1,13 +1,21 @@
-// Rules for the Binary Lock game
-export const rulesText = `.
-SYSTEM INITIALIZING...
+export const rulesText = `
+🔐 Binary Lock Break – Rules
 
-You are attempting to unlock a secure binary system.
+🎯 Objective:
+Find the correct binary code using given clues.
 
-- Enter the correct binary pattern
-- Each attempt gives feedback
-- Wrong sequences will lock the system temporarily
-- Think logically, not randomly
+🧩 How it works:
+- Solve 5 binary locks
+- First 2 → 4-bit
+- Next 2 → 5-bit
+- Final → 6-bit
+- Only ONE answer per lock
 
-ACCESS WILL BE GRANTED ONLY IF YOU SUCCEED.
+📜 Rules:
+- Follow all clues together
+- Match exact bit length
+- Use positions and conditions
+
+🏆 Goal:
+Unlock all locks using logic
 `;
