@@ -33,3 +33,8 @@ Only one person should merge changes into main
 ## License
 
 MIT License
+
+
+## UI rule
+All games MUST use the shared RulesScreen component.
+No custom rule UI is allowed.
