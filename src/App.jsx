@@ -1,2 +1,10 @@
 // App.jsx
-// Main application component
+// Main application 
+
+import BinaryLock from "./games/binary-lock/BinaryLock";
+
+function App() {
+  return <BinaryLock />;
+}
+
+export default App;
